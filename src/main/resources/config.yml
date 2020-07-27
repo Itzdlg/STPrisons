@@ -1,0 +1,13 @@
+modules:
+  # Handles prison ranks and prestiges. If economy is enabled, you will have the option to choose between
+  # various economies. If disabled, just Vault economy will be supported.
+  rank: true
+  # Enables the creation of custom economies for the plugin such as Tokens and Gems
+  economy: true
+  # Enables the enchantment API and default enchantments. This also enables
+  # the givepickaxe command to give items with enchantments
+  enchants: true
+  # Enables the mine API as well as creation of mines in specified ProtectedRegions
+  mine: true
+  # Enables pets that can be bought through the economies module or Vault, they can also be given by command.
+  pets: true
